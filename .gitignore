@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
+*备份*.json
+任课教师工作台备份-*.json
+node_modules/
